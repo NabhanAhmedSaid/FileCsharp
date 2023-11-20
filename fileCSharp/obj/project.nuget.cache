@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vv8KDGkY/0DWGr8nst1oSu5DXQe7JG76Tek4GUha+GJ8a+rAGEriSCesMKFCOiz7t6Kj0B1Kh/nVxo2JtfSVZQ==",
+  "success": true,
+  "projectFilePath": "/home/kali/Desktop/fileCSharp/fileCSharp.csproj",
+  "expectedPackageFiles": [
+    "/home/kali/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/kali/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/kali/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
